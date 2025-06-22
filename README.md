@@ -190,7 +190,7 @@ print(result)
 Clone yalul repository:
 
 ```
-git clone https://github.com/OtavioHenrique/yalul.git
+git clone https://github.com/ovaladares/yalul.git
 ```
 
 #### Install lib requirements
@@ -219,7 +219,7 @@ PYTHONPATH=$PATHONPATH:`pwd` bin/yalul yalul_test.yalul
 Clone yalul repository:
 
 ```
-git clone https://github.com/OtavioHenrique/yalul.git
+git clone https://github.com/ovaladares/yalul.git
 ```
 
 #### build image
@@ -247,7 +247,7 @@ docker run -v "$PWD":/usr/src/app -w /usr/src/app yalul bin/yalul yalul_test.yal
 Clone yalul repository:
 
 ```
-git clone https://github.com/OtavioHenrique/yalul.git
+git clone https://github.com/ovaladares/yalul.git
 ```
 
 #### Install package requeriments(Go to your cmd):
